@@ -1,0 +1,19 @@
+{
+  "name": "MSF_express",
+  "version": "1.0.0",
+  "description": "testing out express@2022",
+  "requires": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cls && node app.js"
+  },
+  "author": "firaol wakuma",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "file:../../../../Users/firaol wakuma/AppData/Roaming/npm/node_modules/express"
+  },
+  "dependencies": {
+    "body-parser": "file:../../../../Users/firaol wakuma/AppData/Roaming/npm/node_modules/body-parser"
+  }
+}
